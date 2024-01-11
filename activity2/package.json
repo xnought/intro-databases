@@ -1,5 +1,5 @@
 {
-	"name": "act1",
+	"name": "activity2",
 	"version": "0.0.0",
 	"description": "Simple server where we serve what we have in maria db stuff.",
 	"main": "server.js",
