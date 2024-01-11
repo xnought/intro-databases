@@ -6,13 +6,16 @@
 	"main": "app.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
-		"start": "node app.js"
+		"start": "node app.js",
+		"forever:start": "forever start app.js",
+		"forever:stop": "forever stop app.js"
 	},
 	"keywords": [],
 	"author": "",
 	"license": "ISC",
 	"dependencies": {
 		"express": "^4.18.2",
+		"forever": "^4.0.3",
 		"mysql": "^2.18.1"
 	}
 }
