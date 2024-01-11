@@ -1,0 +1,13 @@
+{
+	"name": "act1",
+	"version": "0.0.0",
+	"description": "Simple server where we serve what we have in maria db stuff.",
+	"main": "server.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node server.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC"
+}
